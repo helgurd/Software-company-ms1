@@ -15,10 +15,42 @@ body {
   a {
     text-decoration: none!important;
   }
+
+  a:hover {
+    text-decoration: none !important;
+  }
+  
+  
   .container-fluid {
     padding-left: 0;
     padding-right: 0;
   }
+
+
+  .btn-primary {
+    color: #304356;
+    background: #fafafa;
+    border-color: #dfe6e9;
+    transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+  }
+  
+  
+
+  .btn-primary:hover {
+    background-color: #dab6ab;
+    color: #fff;
+    border-color: #dab6ab;
+  }
+  
+  
+
+  
+  
+
+
 /* very top contact bar */
 #topHeader {
   border-bottom: 1px solid #ebebeb;
@@ -182,6 +214,12 @@ body {
   .second-frontpage-row-img {
     max-width: 125px;
   }
-  
-  
-  
+  /* End  of second section Why Us - and the sections with service images. */
+
+
+
+  /* Start of Have you requirements section */
+  .requirement-section {
+  background-color: #dfe6e9;
+}
+
