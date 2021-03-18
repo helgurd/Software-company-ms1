@@ -95,4 +95,32 @@ body {
     width: 70%;
     margin: 2px 0px;
   }
+  .togglearea {
+    display: none;
+  }
+
+  @media screen and (max-width: 900px) {
+    .navbar {
+      flex-direction: column;
+      display: none;
+          color: #fafafa;
+      text-align: left;
+      font-weight: bold;
+      text-decoration: none;
+      text-transform: uppercase;
+      padding: 4px 18px;
+      
+    }
+    
+    
+     .togglearea {
+      display: flex;
+      text-align: left;
+    }
+    
+      #toggle:checked + .navbar {
+      display: flex;
+      text-align: left;
+    }
+  }
   
