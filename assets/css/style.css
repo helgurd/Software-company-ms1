@@ -172,3 +172,16 @@ body {
 }
 
  /*End: top-mainpage-section */
+
+
+ /* Start of second section Why Us - and the sections with service images. */
+ .second-section {
+    background-color: #fafafa;
+      
+  }
+  .second-frontpage-row-img {
+    max-width: 125px;
+  }
+  
+  
+  
