@@ -6,7 +6,7 @@ body {
     /*margin: 0;*/
     /*background: #bc0707 !important;*/
   }
-
+/* main bootstrap hacked */
   h1, h2, h3, h4 {
     margin: 0;
 
@@ -223,3 +223,21 @@ body {
   background-color: #dfe6e9;
 }
 
+/* Ende of Have you requirements section  */
+
+ /* Start of summery-about handtech in frontpage  */
+
+.about-read-more {
+    margin-top: -60px;
+    position: absolute;
+    margin-left: 52px;
+  }
+  
+  .second-main-section > img {
+    max-height: 260px;
+  }
+  
+  /* End of summery-about handtech in frontpage  */
+
+
+  
