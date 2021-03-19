@@ -241,3 +241,105 @@ body {
 
 
 
+/* start of footer  */
+.full-footer {
+    background-color: rgb(39,58,77);
+    color: #fafafa;
+  }
+  .footer-row {
+    width: 100%;
+    background: rgb(52,73,94);
+  }
+  .footer-blocks {
+    font-family: "Exo",sans-serif;
+    max-width: 96%;
+    font-weight: 400;
+    text-align: center;
+    background: rgba(38,54,69,0.31);
+    clear: both;
+    height: 200px;
+    border-style: solid;
+    border-color: #fafafa;
+    border-color: rgb(48,73,98);
+  }
+  .footer-blocks h3 {
+    margin-top: 40px;
+    color: #fafafa;
+  }
+  .footer-span {
+    color: #fafafa;
+    margin-top: 9px;
+    display: block;
+  }
+  
+  ul.social-links {
+    margin-top: 13px;
+    height: 81px;
+    padding-top: 0px;
+  }
+  
+  .social-links .list-inline-item {
+    padding-top: 18px;
+  }
+  .social-links i:hover {
+    color: #dab6ab;
+  }
+  
+  .social-links li a i {
+    color: #fafafa;
+    text-align: center;
+    line-height: 70px;
+    font-size: 36px;
+    padding: 2px 0;
+    width: 31px;
+    height: 39px;
+    border-radius: 50%;
+  }
+  
+  .social-links li a i {
+    color: #fafafa;
+    text-align: center;
+    line-height: 70px;
+    font-size: 36px;
+    padding: 2px 0;
+    width: 31px;
+    height: 39px;
+    border-radius: 50%;
+  }
+  
+  
+  
+  .map-fa {
+    color: #fafafa;
+    font-size: 18px;
+    transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    text-align: left;
+  }
+  .map-fa:hover {
+    color: #dab6ab;
+  }
+  
+  
+  .span-email:hover {
+    color: #dab6ab;
+  }
+  
+  .span-email {
+    padding-bottom: 12px;
+    margin-top: 15px;
+    transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+  }
+  
+  
+  
+  
+
+
+
+/* End of the footer  */
