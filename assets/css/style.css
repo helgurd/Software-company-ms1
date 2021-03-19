@@ -531,3 +531,13 @@ body {
 }
 
 /* End of portfolio  */
+
+/* Very small mobile  */
+@media (min-width: 360px) {
+  .requirerment-col {
+    text-align: left!important;
+    display: inline-block;
+ }
+}
+
+
