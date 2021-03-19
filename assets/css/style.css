@@ -362,7 +362,14 @@ body {
 .breadcrumb-section {
   background-color: #dfe6e9;
 }
+.breadcrumb-item li a {
+  text-decoration: none;
+  list-style: none;
+  color: gray;
+  font-size: .75rem;
+}
 
+/* end of breadcrumb  */
 
 /* team4 contact page  */
 
