@@ -85,12 +85,11 @@ website is going to be a tech company business website which will be professiona
 
 7. Press Enter, you should have your local created. 
 
-$ git clone https://github.com/helgurd/Software-company-ms1.
+$ git clone https://github.com/helgurd/Software-company-ms1.<br>
 
-Cloning into 'Software-company-ms1'...
-remote: Enumerating objects: 275, done.
-remote: Counting objects: 100% (275/275), done.
-remote: Compressing objects: 100% (184/184), done.
-remote: Total 275 (delta 109), reused 220 (delta 57), pack-reused 0Receiving objects:  63% (1
-Receiving objects: 100% (275/275), 10.65 MiB | 2.92 MiB/s, done.
-Resolving deltas: 100% (109/109), done.
+Cloning into 'Software-company-ms1'...<br>
+remote: Enumerating objects: 275, done.<br>
+remote: Counting objects: 100% (275/275), done.<br>
+remote: Compressing objects: 100% (184/184), done.<br>
+remote: Total 275 (delta 109), reused 220 (delta 57), pack-reused 0Receiving objects:  63% (1 Receiving objects: 100% (275/275), 10.65 MiB | 2.92 MiB/s, done. <br>
+Resolving deltas: 100% (109/109), done. <br>
