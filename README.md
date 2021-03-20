@@ -1,5 +1,5 @@
 <h1 align="center"> Software-company-Website-MS1: HandTech </h1>
-**Version 1.0.0**
+<strong align="center">Version 1.0.0 </strong>
 
 -------------------------
 ### License & copyright
