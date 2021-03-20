@@ -1,6 +1,10 @@
-# Software-company-ms1
+# Software-company-Website-MS1: HandTech
 **Version 1.0.0**
 
 -------------------------
 ### License & copyright
-###### © this project is copyright under the github account holder and Codeinstitute Acadmey.
+###### © this project is copyrighted under the github account holder Fullstack course & Codeinstitute Acadmey.
+
+
+## Contributors: 
+- Helgurd Aziz  <helgurd.aziz.mirza@gmail.com>
