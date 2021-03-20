@@ -1,6 +1,4 @@
-html{
-  height:100%
-}
+
 
 body {
     /*padding-bottom: 0;*/
@@ -10,6 +8,7 @@ body {
     /*margin: 0;*/
     /*background: #bc0707 !important;*/
     height: 100%;
+
   }
 /* main bootstrap hacked */
   h1, h2, h3, h4 {
@@ -260,7 +259,7 @@ body {
 .full-footer {
     background-color: rgb(39,58,77);
     color: #fafafa;
-    bottom:0;
+    margin-bottom: 0 !important;
   }
   .footer-row {
     width: 100%;
@@ -352,6 +351,18 @@ body {
     -o-transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
   }
+
+/* copyright */
+  .parag-copy {
+    margin-bottom: 0px;
+    font-size: 9px;
+    margin-top: 4px;
+    height: 18px;
+    text-align: center;
+    padding-top: 6px;
+  }
+  
+  
   
 /* End of the footer  */
 
