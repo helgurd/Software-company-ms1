@@ -541,6 +541,10 @@ body {
     text-align: left!important;
     display: inline-block;
  }
+
+
+
+
 }
 
 @media (max-width: 576px) {
@@ -557,6 +561,7 @@ body {
     text-align: center;
     margin-right: 21px;
   }
+
   
 }
 
@@ -565,6 +570,15 @@ body {
 @media (max-width:767px) {
   .contact-clean {
     padding: 20px 0;
+  }
+
+  .parag-copy {
+    margin-bottom:auto;
+    font-size: 9px;
+    margin-top: auto;
+    height: 9px;
+    text-align: center;
+    padding-top: 6px;
   }
 }
 
