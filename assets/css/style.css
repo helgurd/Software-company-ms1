@@ -354,10 +354,10 @@ body {
 
 /* copyright */
   .parag-copy {
-    margin-bottom: 0px;
-    font-size: 9px;
-    margin-top: 4px;
-    height: 18px;
+  
+    font-size: 10px;
+   
+    height:12px;
     text-align: center;
     padding-top: 6px;
   }
