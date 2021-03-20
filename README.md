@@ -29,3 +29,6 @@ Tech used -
 Software Used –
 1. Visual Studio Code Text Editor (free download)
 2. Browser (preferably chrome)
+3. Image snapshot taker (FastStone capture free download)
+4. some online HTML and CSS Tester (W3C css Validation)
+5. Bootstrap Studio ( free dwonload)
