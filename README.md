@@ -1,5 +1,6 @@
 <h1 align="center"> Software-company-Website-MS1: HandTech </h1>
-** Version 1.0.0 **
+
+**Version 1.0.0** 
 
 -------------------------
 ### License & copyright
@@ -34,4 +35,12 @@ website is going to be a tech company business website which will be professiona
 4. some online HTML and CSS Tester (W3C css Validation)
 5. Bootstrap Studio ( free dwonload)
 
+### Wireframes:
 
+-   Home Page mobile Wireframe - [View](https://github.com/helgurd/Software-company-ms1/blob/main/wireframes/2021-03-20_031307.png)
+
+- About Page Wireframe - [View](https://github.com/helgurd/Software-company-ms1/blob/main/wireframes/about-page.png)
+
+- Contact Page Wireframe - [View](https://github.com/helgurd/Software-company-ms1/blob/main/wireframes/contact-page.png)
+
+- Footer Page Wireframe - [View](https://github.com/helgurd/Software-company-ms1/blob/main/wireframes/footer.png)
