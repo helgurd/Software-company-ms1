@@ -93,3 +93,35 @@ remote: Counting objects: 100% (275/275), done.<br>
 remote: Compressing objects: 100% (184/184), done.<br>
 remote: Total 275 (delta 109), reused 220 (delta 57), pack-reused 0Receiving objects:  63% (1 Receiving objects: 100% (275/275), 10.65 MiB | 2.92 MiB/s, done. <br>
 Resolving deltas: 100% (109/109), done. <br>
+
+[Click Here to git Repository link](https://github.com/helgurd/Software-company-ms1.git)
+
+
+### Code 
+- All code and content devloped by Helgurd Aziz Mirza
+
+### Sources: 
+1. Contact Form created in MDB website  [View Source](https://mdbootstrap.com/docs/b4/jquery/forms/contact/)
+
+
+2. Team created in WrapPixel website [View Source](https://snippets.wrappixel.com/bootstrap-4-column-team-block/)
+
+3. Team images are all permited and uploaded locally. 
+
+4. Template images snapshots taken from webflow [View Source](https://webflow.com/free-website-templates)
+
+5. HandTech is Registerd name and it will be www.HandTech.ie in the future will be in association with dotvisionit.com [Click Here](http://www.dotvisionit.com/en/index.php).
+
+
+6. Icons tacken from Flaticon [View Source](https://www.flaticon.com/?template=VERTICAL_LINES&tdfs=1&s_token=1615288372.0040481152&uuid=1615288372.0040481152&term=Vector%20Icons%20Digital%20Asset%20Management&term=Vector%20Graphics&term=Stock%20Vector%20Images&backfill=0) 
+
+7. color Scheme used in this project is taken  from [View Source](https://flatuicolors.com/palette/us)
+
+
+
+### Acknowledgements
+
+
+
+- Code Institute Course which encourged me and tought me step by steps to achive first face of my project. 
+
