@@ -1,5 +1,5 @@
 <h1 align="center"> Software-company-Website-MS1: HandTech </h1>
-<strong align="center">Version 1.0.0 </strong>
+** Version 1.0.0 **
 
 -------------------------
 ### License & copyright
@@ -10,3 +10,4 @@
 - Helgurd Aziz  <helgurd.aziz.mirza@gmail.com>
 
 
+[Link to live Website ] (https://helgurd.github.io/Software-company-ms1/)
