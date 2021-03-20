@@ -18,8 +18,8 @@ This website is designed to be a responsive and accessible on all range of devic
 ## About the website: 
 This is a bootstrap  portfolio Software and Websites Engineering company Web-page it will give the user  an  information about company works and tasks called HandTech , we will develop the portfolio page of the website. The user can find Links to contact and see portfolio of the company.
 At this stage this project  only on it is face One wich 
-we will  develop a complete porfolio business website in next stage face Two  using HTML5, CSS3, jQuery and bootstrap framework along with python and django framework with database. 
-**Summery** 
+we will  develop a complete porfolio business website in next stage face Two  using HTML5, CSS3, jQuery and bootstrap framework along with python and django framework with database.<br> 
+**Summery** <br>
 website is going to be a tech company business website which will be professional and mobile optimized. 
 
 ##### Tech used:
